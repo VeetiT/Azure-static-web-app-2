@@ -1,0 +1,20 @@
+body {
+  margin: 2rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+.answer {
+    display: none;
+  color: green;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: green;
+  color: white;
+  border: none;
+}
